@@ -20,10 +20,9 @@
 
 ### 👩‍💻 Men haqimda
 
-- 🎨 Zamonaviy va moslashuvchan veb-interfeyslar yaratishga qiziqaman.
-- 🧰 Asosiy texnologiyalarim: **HTML, CSS, JavaScript va React**.
-- 🌱 Frontend dasturlash bo‘yicha bilim va tajribamni oshirib boryapman.
-- 🤝 Yangi loyihalar va hamkorlikka ochiqman.
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1700&pause=650&color=7C3AED&center=true&vCenter=true&width=720&height=120&repeat=true&lines=%F0%9F%8E%A8+Zamonaviy+web-dizayn+yaratishga+qiziqaman;%F0%9F%A7%B0+HTML%2C+CSS%2C+JavaScript+va+React+%E2%9D%A4%EF%B8%8F;%F0%9F%8C%B1+Har+kun+yangi+narsalarni+organaman;%F0%9F%A4%9D+Yangi+loyihalar+va+hamkorlikka+ochiqman" alt="Men haqimda bo‘limining aylanuvchi animatsiyali matni" /></a>
+</div>
 
 ### 🛠️ Texnologiyalar
 
