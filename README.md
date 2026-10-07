@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A11CB,50:2575FC,100:00D4FF&height=230&section=header&text=Gulsanam&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20dasturchi&descAlignY=60&descSize=20" width="100%" alt="Gulsanam — animated frontend banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=220&section=header&text=Gulsanam&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=Frontend%20dasturchi&descAlignY=60&descSize=20" width="100%" alt="Gulsanam animated frontend banner" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=1800&pause=900&color=E2E8F0&center=true&vCenter=true&width=720&height=58&repeat=true&lines=Gulsanam+%7C+Frontend+dasturchi;Salom%2C+men+Gulsanam!+%F0%9F%91%8B" alt="Animated greeting and frontend title" /></a>
 
